@@ -1,0 +1,18 @@
+[project]
+name = "wdm3d"
+version = "0.1.0"
+description = "Python environment for deep-wdm3d"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "nibabel>=5.4.2",
+    "numpy>=2.4.4",
+    "opencv-python>=4.13.0.92",
+    "scikit-image>=0.26.0",
+    "scipy>=1.17.1",
+    "torch>=2.11.0",
+    "torchaudio>=2.11.0",
+    "torchvision>=0.26.0",
+    "tqdm>=4.67.3",
+]
