@@ -1,0 +1,15 @@
+{
+    "image_size": 256,
+    "in_channels": 8,
+    "model_channels": 128,
+    "out_channels": 8,
+    "diffusion_steps": 1000,
+    "noise_level": 500,
+    "batch_size": 1,
+    "accumulation_steps": 32,
+    "lr": 1e-4,
+    "epochs": 500,
+    "patience": 25,
+    "save_interval": 50,
+    "data_dir": "./training data stripped"
+}
