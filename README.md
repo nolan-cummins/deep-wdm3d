@@ -2,6 +2,9 @@
 
 Pipeline for 3D medical image segmentation using Wavelet Diffusion Models and Spatial U-Nets.
 
+<img width="5969" height="2846" alt="representative_figure" src="https://github.com/user-attachments/assets/7bf70525-8ba6-47a8-a56d-cfd0e3b987b1" />
+
+
 ## Hardware Specifications
 
 * **Training:** 8x NVIDIA RTX A6000 GPUs.
